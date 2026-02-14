@@ -8,7 +8,8 @@ Features:
 - Image Converter: Convert images between formats (PNG, JPG)
 - QR Generator: Create QR codes from text or URLs
 
-Author: SMS
+Author: S. M. S. Morsalin
+github: https://github.com/smsmorsalin
 Repository: https://github.com/YOUR_USERNAME/telegrambot-friengineers
 """
 
